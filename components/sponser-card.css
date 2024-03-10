@@ -1,0 +1,35 @@
+.sponser-card-feature-card {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-items: center;
+  flex-direction: column;
+}
+.sponser-card-icon {
+  fill: var(--dl-color-gray-500);
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+}
+.sponser-card-text {
+  font-style: normal;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.sponser-card-text1 {
+  color: var(--dl-color-gray-700);
+  text-align: center;
+}
+.sponser-card-root-class-name {
+  margin-top: var(--dl-space-space-oneandhalfunits);
+}
+.sponser-card-root-class-name1 {
+  margin-top: var(--dl-space-space-oneandhalfunits);
+}
+.sponser-card-root-class-name3 {
+  margin-top: var(--dl-space-space-oneandhalfunits);
+}
+.sponser-card-root-class-name5 {
+  margin-top: var(--dl-space-space-oneandhalfunits);
+}
